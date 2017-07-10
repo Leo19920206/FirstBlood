@@ -10,11 +10,11 @@ html,body{
     padding:8px 20px;;
 }
 .box{
-    width:50px;
+    width:100px;
     height:50px;
     box-sizing: border-box;
     border-radius:5px;
-    border:2px solid YELLOW;
+    border:2px solid red;
     display:inline-block;
 }
 .label{

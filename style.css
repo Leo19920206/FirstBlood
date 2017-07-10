@@ -14,7 +14,7 @@ html,body{
     height:50px;
     box-sizing: border-box;
     border-radius:5px;
-    border:2px solid red;
+    border:2px solid YELLOW;
     display:inline-block;
 }
 .label{

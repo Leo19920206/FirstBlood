@@ -1,3 +1,3 @@
 // js goes here
 
-alert("Hello world!");
+alert("Hello world!😆😆");
